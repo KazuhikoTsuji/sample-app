@@ -28,4 +28,4 @@ app.get("/*", (req, res) => {
   });
 });
 
-app.listen(port, () => console.log(`Fancystor listening on port ${port}!`));
+app.listen(port, () => console.log(`Fancystore listening on port ${port}!`));
